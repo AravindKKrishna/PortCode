@@ -277,7 +277,7 @@ include 'constants/check-login.php';
 							<div class="col-sm-4 col-md-4">
 							
 								<ul class="bottom-footer-menu">
-									<li><a >Developed by Aravind K Krishna</a></li>
+									<li><a >Developed by Aravind K Krishna and Ashkar R</a></li>
 								</ul>
 							
 							</div>
