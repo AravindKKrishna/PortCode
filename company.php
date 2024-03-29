@@ -479,7 +479,7 @@ $page = 1;
 									
 										<div class="footer-about-us">
 											<h5 class="footer-title">About Nightingale Jobs</h5>
-											<p>Nightingale Jobs is a job portal, online job management system developed by Nathaniel Nkrumah for his project in february 2018.</p>
+											<p>Nightingale Jobs is a job portal, online job management system developed by Aravind K Krishna and Ashkar r for his project in March023.</p>
 										
 										</div>
 
@@ -536,7 +536,7 @@ $page = 1;
 							<div class="col-sm-4 col-md-4">
 							
 								<ul class="bottom-footer-menu">
-									<li><a >Developed by Nathaniel Nkrumah</a></li>
+									<li><a >Developed by ARravind and Ashkar</a></li>
 								</ul>
 							
 							</div>
