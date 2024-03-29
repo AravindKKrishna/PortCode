@@ -587,7 +587,7 @@ $title = "Job List";
 							<div class="col-sm-4 col-md-4">
 							
 								<ul class="bottom-footer-menu">
-									<li><a >Developed by Nathaniel Nkrumah</a></li>
+								<li><a >Developed Aravind and Ashkar</a></li>
 								</ul>
 							
 							</div>
