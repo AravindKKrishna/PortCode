@@ -220,7 +220,7 @@ include 'constants/check-login.php';
 									
 										<div class="footer-about-us">
 											<h5 class="footer-title">About Nightingale Jobs</h5>
-											<p>Nightingale Jobs is a job portal, online job management system developed by Nathaniel Nkrumah for his project in february 2018.</p>
+										<p>Nightingale Jobs is a job portal, online job management system developed by Aravind K Krishna and Ashkar r for his project in March023.</p>
 										
 										</div>
 
@@ -277,7 +277,7 @@ include 'constants/check-login.php';
 							<div class="col-sm-4 col-md-4">
 							
 								<ul class="bottom-footer-menu">
-									<li><a >Developed by Nathaniel Nkrumah</a></li>
+									<li><a >Developed by Aravind K Krishna</a></li>
 								</ul>
 							
 							</div>
